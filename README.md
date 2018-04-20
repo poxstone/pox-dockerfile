@@ -1,2 +1,2 @@
-#Dockerfile for container registry
-# pox-dockerfile
+# Dockerfile for container registry
+- pox-dockerfile
